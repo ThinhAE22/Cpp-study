@@ -1,0 +1,8 @@
+pears    	1.23
+ham-pizza	1.95
+salad   	0.80
+lemonade	1.67
+newspaper	2.00
+beef    	3.52
+potatoes	1.52
+milk    	0.80
